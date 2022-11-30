@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mlnamalik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html,css,js
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me maulanamalik_03@mhs.mdp.ac.id
 
 <!---
